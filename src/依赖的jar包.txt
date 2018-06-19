@@ -1,0 +1,9 @@
+c3p0-0.9.1.1.jar
+log4j-1.2.16.jar
+
+# 版本可能太低了，如果报错换用高版本mysql-connector
+mysql-connector-java-5.0.8-bin.jar
+quartz-2.2.3.jar
+quartz-jobs-2.2.3.jar
+slf4j-api-1.7.7.jar
+slf4j-log4j12-1.7.7.jar
